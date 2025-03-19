@@ -55,7 +55,7 @@ NeoHint یک پلاگین برای نمایش نکات قابل تنظیم در 
 ## نصب 🛠️
 
 1. آخرین نسخه [NeoHint](https://github.com/ArshiaZero/NeoHint/releases) را دانلود کنید.
-2 آخرین نسخه [HintServiceMeow](https://github.com/MeowServer/HintServiceMeow/releases/download/V5.3/HintServiceMeow-Exiled.dll) را دانلود کنید.
+2. آخرین نسخه [HintServiceMeow](https://github.com/MeowServer/HintServiceMeow/releases/download/V5.3/HintServiceMeow-Exiled.dll) را دانلود کنید.
 3. فایل `NeoHint.dll` و `HintServiceMeow-Exiled` را در دایرکتوری پلاگین خود قرار دهید.
 4. سرور خود را مجدداً راه‌اندازی کنید تا پلاگین بارگذاری شود.
 5. و حالا میتوانید از پلاگین استفاده کنید :).
