@@ -17,8 +17,9 @@ NeoHint is a plugin for displaying customizable hints in the game. It allows you
 
 1. Download the latest release of NeoHint.
 2. Download the latest release of [HintServiceMeow](https://github.com/MeowServer/HintServiceMeow/releases/download/V5.3/HintServiceMeow-Exiled.dll).
-2. Place the `NeoHint.dll` and `HintServiceMeow-Exiled` file into your plugin directory.
-3. Restart your server to load the plugin.
+3. Place the `NeoHint.dll` and `HintServiceMeow-Exiled` file into your plugin directory.
+4. Restart your server to load the plugin.
+5. And you are ready to go :)).
 
 ## Configuration ⚙️
 
@@ -55,8 +56,9 @@ NeoHint یک پلاگین برای نمایش نکات قابل تنظیم در 
 
 1. آخرین نسخه NeoHint را دانلود کنید.
 2 آخرین نسخه [HintServiceMeow](https://github.com/MeowServer/HintServiceMeow/releases/download/V5.3/HintServiceMeow-Exiled.dll) را دانلود کنید.
-2. فایل `NeoHint.dll` و `HintServiceMeow-Exiled` را در دایرکتوری پلاگین خود قرار دهید.
-3. سرور خود را مجدداً راه‌اندازی کنید تا پلاگین بارگذاری شود.
+3. فایل `NeoHint.dll` و `HintServiceMeow-Exiled` را در دایرکتوری پلاگین خود قرار دهید.
+4. سرور خود را مجدداً راه‌اندازی کنید تا پلاگین بارگذاری شود.
+5. و حالا میتوانید از پلاگین استفاده کنید :).
 
 ## پیکربندی ⚙️
 
