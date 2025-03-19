@@ -22,7 +22,7 @@ NeoHint is a plugin for displaying customizable hints in the game. It allows you
 
 ## Configuration ⚙️
 
-```json
+```yaml
 NeoHint:
 # Whether or not the plugin is enabled.
   is_enabled: true
@@ -37,7 +37,8 @@ NeoHint:
   # The Y coordinate for the hint text position. 0 for disable this feature.
   y_coordinate: 1040
   # The alignment of the hint text. Values: Left, Right, Center.
-  alignment: Center```
+  alignment: Center
+```
 
 ---
 
@@ -59,7 +60,7 @@ NeoHint یک پلاگین برای نمایش نکات قابل تنظیم در 
 
 ## پیکربندی ⚙️
 
-```json
+```yaml
 NeoHint:
 # Whether or not the plugin is enabled.
   is_enabled: true
@@ -74,5 +75,6 @@ NeoHint:
   # The Y coordinate for the hint text position. 0 for disable this feature.
   y_coordinate: 1040
   # The alignment of the hint text. Values: Left, Right, Center.
-  alignment: Center```
+  alignment: Center
+```
 
